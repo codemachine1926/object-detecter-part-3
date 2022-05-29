@@ -1,0 +1,21 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+#heading_bottle{
+    background-color: black;
+    color: aliceblue;
+    border: solid 3px aqua;
+    margin-top: 0px;
+}
+.status{
+    color: black;
+    font-weight: bold;
+}
+
+.back{
+    float: right;
+}
+canvas{
+    border: solid 3px black;
+}
